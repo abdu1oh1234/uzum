@@ -1,0 +1,97 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: inherit;
+  list-style: none;
+  text-decoration: none;
+}
+
+.lorem1 {
+  margin-top: 20px;
+  text-decoration: line-through;
+}
+.lorem2 {
+  font-size: 20px;
+}
+.lorem3 {
+  font-size: 20px;
+}
+.lorem4 {
+  margin-left: 100px;
+}
+.lorem6 {
+  margin-top: 20px;
+  text-decoration: line-through;
+  display: block;
+}
+.lorem5 {
+  font-size: 20px;
+}
+.lorem7 {
+  font-size: 20px;
+}
+.lorem8 {
+  margin-left: 100px;
+}
+.lorem9 {
+  display: inline-block;
+}
+.lorem10 {
+  display: inline-block;
+  margin-left: 30px;
+}
+.lorem13 {
+  margin-top: 20px;
+  text-decoration: line-through;
+  display: block;
+}
+.lorem12 {
+  font-size: 20px;
+}
+.lorem14 {
+  font-size: 20px;
+}
+.lorem15 {
+  margin-left: 100px;
+}
+.lorem11 {
+  display: inline-block;
+  margin-left: 30px;
+}
+.lorem18 {
+  margin-top: 20px;
+  text-decoration: line-through;
+  display: block;
+}
+.lorem12 {
+  font-size: 20px;
+}
+.lorem14 {
+  font-size: 20px;
+}
+.lorem20 {
+  margin-left: 100px;
+}
+.lorem16 {
+  display: inline-block;
+  margin-left: 50px;
+}
+.lorem23 {
+  margin-top: 20px;
+  text-decoration: line-through;
+  display: block;
+}
+.lorem12 {
+  font-size: 20px;
+}
+.lorem14 {
+  font-size: 20px;
+}
+.lorem25 {
+  margin-left: 100px;
+}
+.lorem21 {
+  display: inline-block;
+  margin-left: 50px;
+}
